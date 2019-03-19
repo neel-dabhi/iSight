@@ -1,4 +1,4 @@
-[![Watch the video](https://lh3.googleusercontent.com/4DV4xHnJk85zQ9LmALrjewh7O-azywzPTSyc1yyApE0Yb1MVHU3FHgWNdtFyrOuQ0HjJULfXm1OwSPxTC_CH=w1919-h943-rw)](https://youtu.be/9qt7oGwm5tA){:target="_blank"}
+[![Watch the video](https://lh4.googleusercontent.com/Xls4s--Fn3c46-LVMYyMQswfzbi6iR95VbkDCCQtQZklbgxF9n5PVGY5RfdEpwIQG3rlyOb3ARtG3KF9Zq94=w1919-h943-rw)](https://youtu.be/9qt7oGwm5tA)
 
 # iSight
 App that helps people with low vision to understand their surrounding. 
