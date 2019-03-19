@@ -6,8 +6,6 @@ App that helps people with low vision to understand their surrounding.
 ## Objective
 This project is built to aid the Visually Impaired People so that they may easily understand, what’s happening around them. Understanding of environment should be independent to sensation of touch and smell.
 
-[![Watch the video](https://lh6.googleusercontent.com/2lf8RE5aoQrH33V9LLxn3CzWS3bNFFE6hTRmqyH76q4AKMElh3uQ0H354YLi0HK6cElNdbM6I5pI5p3Ma3Dl=w1919-h943-rw)](https://youtu.be/9qt7oGwm5tA)
-
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -54,3 +52,9 @@ Android Studio installs the app on your connected device and starts it.
 
 * [Microsoft Cognitive Services](https://azure.microsoft.com/en-in/try/cognitive-services/) - API that processes Image.
 * [Text Recognition API](https://developers.google.com/vision/android/text-overview) - API that detect text from image.
+
+
+## Demo
+
+
+[![Watch the video](https://lh6.googleusercontent.com/2lf8RE5aoQrH33V9LLxn3CzWS3bNFFE6hTRmqyH76q4AKMElh3uQ0H354YLi0HK6cElNdbM6I5pI5p3Ma3Dl=w1919-h943-rw)](https://youtu.be/9qt7oGwm5tA)
